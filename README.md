@@ -6,3 +6,6 @@ some docs and useful resource for learning cs
 - [Git user's manual](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html)
 - [Git-References](https://git-scm.com/docs)
 - [Visual Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
+
+## Cpp
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
