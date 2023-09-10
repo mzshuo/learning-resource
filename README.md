@@ -9,3 +9,4 @@ some docs and useful resource for learning cs
 
 ## Cpp
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [CMU15445-bootcamp](https://github.com/cmu-db/15445-bootcamp)
